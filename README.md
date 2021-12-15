@@ -13,7 +13,7 @@
 - 📫 Contact me **[here](abhiramravipati9@gmail.com)**
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=Abhiram1819&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram Ravipati" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=Abhiram1819&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram Ravipati" /> </p>
 
 
 ## 📚 My Skills

@@ -1,6 +1,6 @@
 ![Abhiram Ravipati's-cover](./cover-image.png)
 
-## 🧔 About Me
+## 🧔 About Me    <p align="right"> <img src="https://komarev.com/ghpvc/?username=Abhiram1819&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram Ravipati" /> </p>
 
 - 🔭 I’m currently working on HTML, CSS, JAVASCRIPT
 
@@ -11,9 +11,6 @@
 - 💬 Ask me about **React, Web Development and UI/UX**
 
 - 📫 Contact me **[here](abhiramravipati9@gmail.com)**
-
-
-  <p> <img src="https://komarev.com/ghpvc/?username=Abhiram1819&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram Ravipati" /> </p>
 
 
 ## 📚 My Skills

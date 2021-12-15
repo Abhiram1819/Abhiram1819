@@ -12,7 +12,7 @@
 
 - 📫 Contact me **[here](abhiramravipati9@gmail.com)**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=naveeramesh&label=Profile%20views&color=0e75b6&style=flat" alt="naveeramesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveeramesh&label=Profile%20views&color=0e75b6&style=flat" alt="naveeramesh" /> </p>
 
 
 ## 📚 My Skills

@@ -1,6 +1,6 @@
 ![Abhiram Ravipati's-cover](./cover-image.png)
 
-## 🧔 About Me    <p align="right"> <img src="https://komarev.com/ghpvc/?username=Abhiram1819&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram Ravipati" /> </p>
+<h2> 🧔 About Me    <p align="right"> <img src="https://komarev.com/ghpvc/?username=Abhiram1819&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram Ravipati" /> </p></h2>
 
 - 🔭 I’m currently working on HTML, CSS, JAVASCRIPT
 
